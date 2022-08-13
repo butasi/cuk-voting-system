@@ -161,7 +161,7 @@ else
 </table>
 </div>
 <div id="footer"> 
-  <div class="bottom_addr">©copy; 2018 CO-OPERATIVE UNIVERSITY OF KENYA ONLINE VOTING SYSTEM. All Rights Reserved</div>
+  <div class="bottom_addr">©copy; 2022 CO-OPERATIVE UNIVERSITY OF KENYA ONLINE VOTING SYSTEM. All Rights Reserved</div>
 </div>
 </div>
 </body>
