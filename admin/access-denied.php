@@ -19,7 +19,7 @@
   <p>You don't have access to this resource. <a href="index.html">Click here</a> to login first.</p>
 </div>
 <div id="footer"> 
-  <div class="bottom_addr">©copy;2018 CO-OPERATIVE UNIVERSITY OF KENYA ONLINE VOTING SYSTEM. All Rights Reserved</div>
+  <div class="bottom_addr">©copy;2022 CO-OPERATIVE UNIVERSITY OF KENYA ONLINE VOTING SYSTEM. All Rights Reserved</div>
 </div>
 </div>
 </body>
